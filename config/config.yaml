@@ -63,6 +63,15 @@ platforms:
       name: "bilibili 热搜"
     - id: "douyin"
       name: "抖音"
+    - id: "sspai"
+      name: "少数派"
+    - id: "snowball"
+      name: "雪球"
+    - id: "github"
+      name: "GitHub"
+    - id: "juejin"
+      name: "掘金"
+
 
 
 
