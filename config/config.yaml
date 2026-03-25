@@ -17,7 +17,7 @@ app:
   #   - America/New_York (美东时间 UTC-5/-4)
   #   - Europe/London (伦敦时间 UTC+0/+1)
   # 完整时区列表: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-  timezone: "Asia/Shanghai"
+  timezone: "America/Los_Angeles"
   show_version_update: true           # 显示版本更新提示
 
 
@@ -65,12 +65,14 @@ platforms:
       name: "抖音"
     - id: "sspai"
       name: "少数派"
-    - id: "snowball"
+    - id: "xueqiu"
       name: "雪球"
     - id: "github"
       name: "GitHub"
     - id: "juejin"
       name: "掘金"
+    - id: "chongbuluo"
+      name: "虫部落"
 
 
 
@@ -124,9 +126,9 @@ rss:
       name: "qbitai"
       url: "https://www.qbitai.com/feed"
 
-    - id: "jiqizhixin"
-      name: "jiqizhixin"
-      url: "http://www.jiqizhixin.com/rss"
+    # - id: "jiqizhixin"
+    #   name: "jiqizhixin"
+    #   url: "http://www.jiqizhixin.com/rss"
 
 
 
